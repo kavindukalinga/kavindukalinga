@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavindukalinga)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **my university projects.**
 
