@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindukalinga" alt="kavindukalinga" /></a> </p>
 
-<!--<p align="left"> <a href="https://twitter.com/banulakwindu" target="blank"><img src="https://img.shields.io/twitter/follow/banulakwindu?logo=twitter&style=for-the-badge" alt="banulakwindu" /></a> </p> -->
+<p align="left"> <a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img src="https://img.shields.io/facebook/follow/kavindu.kalinga?logo=facebook&style=for-the-badge" alt="kavindukalinga" /></a> </p>
 
 - 🔭 I’m currently working on **my university projects.**
 
