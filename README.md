@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Python, C++, MATLAB, JAVA, ...**
 
+- 🎳 Visit my [blog](https://kalingachandrasiri.blogspot.com/) to read about the **projects I have done.**
+
 - 📫 How to reach me **kavindukalingayu@gmail.com**
 
 - ⚡ Fun fact: **I love to play Computer Games and Watch Movies.**
