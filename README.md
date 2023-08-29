@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Electronics and Telecommunication Engineering.**
 
-- 👯 I’m looking to collaborate **with other content creators.**
+- 👯 I am seeking to engage in **Research-oriented endeavors.**
 
-- 💬 Ask me about **Python, C++, MATLAB, JAVA, ...**
+- 💬 Ask me about **Computer Vision, Machine Learning, Digital Signal Processing, ...**
 
 - 🎳 Visit my [blog](https://kalingachandrasiri.blogspot.com/) to read about the **projects I have done.**
 
