@@ -7,12 +7,12 @@
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
 <hr/>
-
 <h1 align="center"> I am Kalinga Chandrasiri </h1>
 <h3 align="center">Electronic & Telecom. Engineering UG | Problem solver | Tech Enthusiast</h3>
+<hr/>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
-<hr/>
 - 🔭 I’m currently working on **my university projects.**
 
 - 🌱 I’m currently learning **Electronics and Telecommunication Engineering.**
