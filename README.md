@@ -12,7 +12,7 @@ https://leviarista.github.io/github-profile-header-generator/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindukalinga" alt="kavindukalinga" /></a> </p>
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
