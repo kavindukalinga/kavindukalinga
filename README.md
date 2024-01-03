@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
 <hr/>
-<h1 align="center"> I am Kalinga Chandrasiri </h1>
+<h1 align="center"> I am Kalinga Chandrasiri </h1> <a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="30" width="40" /></a>
 <h3 align="center">Electronic & Telecom. Engineering UG | Problem solver | Tech Enthusiast</h3>
 <hr/>
 
