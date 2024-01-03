@@ -1,4 +1,6 @@
-![alt text](./src/top.svg)
+<!-- ![alt text](./src/top.svg)
+https://leviarista.github.io/github-profile-header-generator/
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindukalinga&label=Profile%20views&color=0e75b6&style=flat" alt="kavindukalinga" /> </p>
 
@@ -61,5 +63,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindukalinga&" alt="kavindukalinga" /></p>
 
 ![alt text](./src/btm.svg)
-
-<hr/>
