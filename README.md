@@ -64,7 +64,7 @@ https://leviarista.github.io/github-profile-header-generator/
 
 </br>
 <hr/>
-<img align="right" alt="Coding" width="30" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+<img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 <h3> My stats </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindukalinga&show_icons=true&locale=en&layout=compact" alt="kavindukalinga" /></p>
