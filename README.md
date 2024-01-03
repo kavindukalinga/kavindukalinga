@@ -67,9 +67,9 @@ https://leviarista.github.io/github-profile-header-generator/
 
 <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=kavindukalinga&show_icons=true&locale=en" alt="kavindukalinga" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindukalinga&show_icons=true&locale=en" alt="kavindukalinga" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindukalinga&" alt="kavindukalinga" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindukalinga&" alt="kavindukalinga" /></p>
 
 
 ![alt text](./src/btm.svg)
