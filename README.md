@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
 <hr/>
-<h1 align="center"> I am Kalinga Chandrasiri 👀<a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank">kalinga</a>
-  </h1>
+<h1 align="center"> I am Kalinga Chandrasiri <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank">👀</a></h1>
 <h3 align="center">Electronic & Telecom. Engineering UG | Problem solver | Tech Enthusiast</h3>
 <hr/>
 
