@@ -12,11 +12,10 @@ https://leviarista.github.io/github-profile-header-generator/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindukalinga" alt="kavindukalinga" /></a> </p>
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
-<hr/>
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 <h1 align="center"> Hey, I am Kalinga <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="kavindukalinga" height="50" width="50" /></a></h1>
 <h3 align="center">Electronic & Telecom. Engineering UG | DevOps Intern | Tech Enthusiast</h3>
 <hr/>
