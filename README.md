@@ -17,9 +17,8 @@ https://leviarista.github.io/github-profile-header-generator/
 <p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
 <hr/>
-<h1 align="center"> Hey, I am Kalinga <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank">👀</a></h1>
+<h1 align="center"> Hey, I am Kalinga <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="kavindukalinga" height="30" width="40" /></a></h1>
 <h3 align="center">Electronic & Telecom. Engineering UG | DevOps Intern | Tech Enthusiast</h3>
-
 <hr/>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
