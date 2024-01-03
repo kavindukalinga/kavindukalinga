@@ -18,7 +18,7 @@ https://leviarista.github.io/github-profile-header-generator/
 <h3 align="center">Electronic & Telecom. Engineering UG | DevOps Intern | Tech Enthusiast</h3>
 <hr/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m currently working on **my university projects.**
 
