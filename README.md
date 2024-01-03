@@ -17,9 +17,9 @@ https://leviarista.github.io/github-profile-header-generator/
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 <h1 align="center"> Hey, I am Kalinga <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank">👀</a></h1>
 <h3 align="center">Electronic & Telecom. Engineering UG | DevOps Intern | Tech Enthusiast</h3>
-<hr/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<hr/>
 
 - 🔭 I’m currently working on **my university projects.**
 
