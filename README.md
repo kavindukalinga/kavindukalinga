@@ -37,7 +37,7 @@ https://leviarista.github.io/github-profile-header-generator/
 - ⚡ Fun fact: **I love to play Computer Games and Watch Movies.**
 
 <hr/>
-<img align="left" alt="Coding" width="20" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
+<img align="left" alt="Coding" width="30" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
 <h3> Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yuk_kalinga_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="30" width="40" /></a>
