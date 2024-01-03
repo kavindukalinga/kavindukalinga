@@ -1,7 +1,7 @@
 <!-- ![alt text](./src/top.svg)
 https://leviarista.github.io/github-profile-header-generator/
 -->
-
+![MasterHead](./src/github-header-image.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindukalinga&label=Profile%20views&color=0e75b6&style=flat" alt="kavindukalinga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindukalinga" alt="kavindukalinga" /></a> </p>
