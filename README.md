@@ -44,9 +44,7 @@
 
 <hr/>
 <img align="right" alt="Coding" width="50" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-<h3> Just a Python 🐍 Eating away my Contributions...😭</h3>
 
-![snake gif](./src/github-contribution-grid-snake.svg)
 
 </br>
 <hr/>
@@ -61,4 +59,3 @@
 
 
 ![alt text](./src/btm.svg)
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
