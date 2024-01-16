@@ -1,19 +1,3 @@
-<img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif">
-
-![MasterHead](./src/github-header-image.png)
-<!-- 
-![MasterHead](./src/github-header-image.png)
-![alt text](./src/top.svg)
-https://leviarista.github.io/github-profile-header-generator/
--->
-
-<img align="right" alt="Coding"  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindukalinga&label=Profile%20views&color=0e75b6&style=flat" alt="kavindukalinga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindukalinga" alt="kavindukalinga" /></a> </p>
-
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-<p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="kavindukalinga" /></a> </p>
 
 <hr/>
 <h1 align="center"> Hey, I am Kalinga <a href="https://www.linkedin.com/in/kalingachandrasiri" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" alt="kavindukalinga" height="50" width="50" /></a></h1>
